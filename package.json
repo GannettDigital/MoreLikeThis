@@ -1,0 +1,20 @@
+{
+  "name": "morelikethis",
+  "version": "1.0.0",
+  "description": "POC Using Solr's More Like This",
+  "main": "app.js",
+  "dependencies": {
+    "restify": "^4.0.3",
+    "http": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solr",
+    "morelikethis"
+  ],
+  "author": "amotro",
+  "license": "ISC"
+}
