@@ -5,7 +5,7 @@ var restify = require('restify');
 var morelikethis = require('./lib/morelikethis.js');
 
 var ip_address = '127.0.0.1';
-var port = '8080';
+var port = '8983';
 
 var server = restify.createServer({
     name : "MoreLikeThis"
