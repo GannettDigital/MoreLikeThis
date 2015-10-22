@@ -1,6 +1,6 @@
 {
   "name": "morelikethis",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "POC Using Solr's More Like This",
   "main": "app.js",
   "dependencies": {
