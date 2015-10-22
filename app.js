@@ -2,7 +2,6 @@
  * Created by amotro on 10/20/15.
  */
 var restify = require('restify');
-var http = require('http');
 var morelikethis = require('./lib/morelikethis.js');
 
 var ip_address = '127.0.0.1';
