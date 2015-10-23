@@ -4,8 +4,14 @@
   "description": "POC Using Solr's More Like This",
   "main": "app.js",
   "dependencies": {
-    "restify": "^4.0.3",
-    "http": "^0.0.0"
+    "async": "^1.4.2",
+    "http": "0.0.0",
+    "request": "^2.65.0",
+    "restify": "^4.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GannettDigital/MoreLikeThis.git"
   },
   "devDependencies": {},
   "scripts": {
